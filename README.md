@@ -1,6 +1,6 @@
 # 🤖 Bot Telegram
 
-![CI](https://github.com/<ton-pseudo>/telegram-bot/actions/workflows/ci.yml/badge.svg)
+
 
 Un bot Telegram en Python : météo et prévisions, rappels uniques ou quotidiens (persistés en SQLite), fuseau horaire par utilisateur, tests automatiques et configuration de déploiement.
 
