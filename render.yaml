@@ -1,0 +1,9 @@
+services:
+  - type: worker
+    name: telegram-bot
+    runtime: docker
+    envVars:
+      - key: TELEGRAM_TOKEN
+        sync: false
+      - key: OPENWEATHER_API_KEY
+        sync: false
